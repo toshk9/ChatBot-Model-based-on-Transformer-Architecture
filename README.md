@@ -16,7 +16,5 @@ The notebook guides you through the steps of data preprocessing, model creation,
 The code also includes an example of how to use the trained model for inference. Once the model is trained, you can input a prompt or a partial sentence, and the model will generate a coherent response based on its learned patterns and context.
 
 Feel free to explore the **model.ipynb** notebook to understand the implementation details and experiment with different parameters, datasets, or modifications to the architecture.
-# ПЕРЕПИСАТЬ
-Note: Please ensure that you have installed the required dependencies mentioned in the requirements.txt file before running the code.
 
 Happy modeling and chatbot conversations!
